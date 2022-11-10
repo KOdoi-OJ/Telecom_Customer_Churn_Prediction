@@ -1,0 +1,7 @@
+
+LP3_ft_drop_first_all.ipynb
+LP3_ft_drop_first_gender.ipynb
+*.tsv
+catboost_info/learn_error.tsv
+catboost_info/learn/events.out.tfevents
+catboost_info/catboost_training.json
