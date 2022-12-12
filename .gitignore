@@ -5,3 +5,4 @@ LP3_ft_drop_first_gender.ipynb
 catboost_info/learn_error.tsv
 catboost_info/learn/events.out.tfevents
 catboost_info/catboost_training.json
+.ipynb_checkpoints/LP3_with_balancing_v2-checkpoint.ipynb
